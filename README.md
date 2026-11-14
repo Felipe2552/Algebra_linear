@@ -1,4 +1,6 @@
-**Apostila de estudo sobre matrizes, com parte conceitual, exemplos resolvidos, exercícios e gabarito. Escrita durante o curso de Ciência de Dados e organizada como material de revisão e consulta.**
+# Álgebra Linear
+
+Apostila de estudo de Álgebra Linear que aborda conceitos de **matrizes** e **vetores** e suas propriedades, com exemplos resolvidos, exercícios e gabarito.
 
 ## Conteúdo
 
@@ -13,9 +15,9 @@
 ## Estrutura do repositório
 
 ```
-├── Apostila/
+├── Apostilas/ 
 │   ├── algebra_Linear.pdf
 │   └── algebra_linear.md
-└── exemplos/
+└── exemplos/ 
     └── (scripts e notebooks em Python, em construção)
 ```
