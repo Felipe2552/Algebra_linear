@@ -1,8 +1,8 @@
 # Álgebra Linear
 
-Apostila de estudo de Álgebra Linear que aborda conceitos de **matrizes** e **vetores** e suas propriedades, com exemplos resolvidos, exercícios e gabarito.
+Apostila de estudo de Álgebra Linear que aborda conceitos de **matrizes** e **vetores** e suas propriedades, com exemplos resolvidos, exercícios e gabarito. Nesse repositório, a apostila se encontra na versão **pdf e md.**
 
-## Conteúdo
+## Conteúdo:
 
 | Unidade | Tema | Ideia central |
 | --- | --- | --- |
@@ -12,7 +12,7 @@ Apostila de estudo de Álgebra Linear que aborda conceitos de **matrizes** e **v
 | 4 | Sistemas lineares | Resolver A·x = b |
 | 5 | Aplicações | Grafos, Markov e mínimos quadrados |
 
-## Estrutura do repositório
+## Repositório:
 
 ```
 ├── Apostilas/ 
