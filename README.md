@@ -13,10 +13,8 @@
 ## Estrutura do repositório
 
 ```
-.
-├── README.md
-├── apostila/
-│   ├── Algebra_Linear_Notas_de_Estudo.pdf
+├── Apostila/
+│   ├── algebra_Linear.pdf
 │   └── algebra_linear.md
 └── exemplos/
     └── (scripts e notebooks em Python, em construção)
